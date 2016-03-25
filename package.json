@@ -1,0 +1,28 @@
+{
+  "name": "fysbolg",
+  "version": "1.0.0",
+  "description": "付云思网站",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuyunsi/fysbolg.git"
+  },
+  "keywords": [
+    "fysbolg"
+  ],
+  "author": "fuyunsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuyunsi/fysbolg/issues"
+  },
+  "homepage": "https://github.com/fuyunsi/fysbolg#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mysql": "^2.10.2"
+  }
+}
